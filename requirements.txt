@@ -1,0 +1,6 @@
+requests
+psycopg2-binary
+python-dotenv
+flask
+mysql-connector-python
+schedule
